@@ -1,4 +1,4 @@
-<h2 align="left">About Me 🌟<br>Hi! I’m Gagan Jha, a CS student turning ideas into code and bugs into features. 🚀<br><br>🖋️ Contributor at Social Winter of Code<br>🌟 Campus Ambassador: Ecell DTU & eDC IIT Delhi<br>🔗 Member: Google Developer Group New Delhi<br>🏆 Ranked 179 in IPU CET 2024 | Resume & Web Dev Ninja<br><br>💡 Let’s connect, create, and crush it together! 💻✨</h2>
+<h2 align="left"><br>Hi! I’m Gagan Jha, a CS student turning ideas into code and bugs into features. 🚀<br><br>🖋️ Contributor at Social Winter of Code<br>🌟 Campus Ambassador: Ecell DTU & eDC IIT Delhi<br>🔗 Member: Google Developer Group New Delhi<br>🏆 Ranked 179 in IPU CET 2024 | Resume & Web Dev Ninja<br><br>💡 Let’s connect, create, and crush it together! 💻✨</h2>
 
 ###
 
