@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gagan Jha</h1>
 <h3 align="center">👋 Hi, I'm Gagan Jha, a BCA student passionate about front-end development, C programming, and tech communities. I'm exploring my way into data science and software development, one project at a time.</h3>
+<img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhagagan0&label=Profile%20views&color=0e75b6&style=flat" alt="jhagagan0" /> </p>
 
